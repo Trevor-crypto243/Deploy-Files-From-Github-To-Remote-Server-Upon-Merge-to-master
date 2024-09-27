@@ -1,3 +1,17 @@
+![image](https://github.com/user-attachments/assets/bcc256e2-ac67-4ea6-aee9-ec94a30a0d8a)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 To set up a pipeline that copies files from GitHub to a remote repository after a user merges to the master branch, you can use a CI/CD tool like GitHub Actions, Jenkins, or GitLab CI.
 
